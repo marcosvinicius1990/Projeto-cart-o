@@ -1,0 +1,75 @@
+
+
+.container1 {
+    background: #926f34;
+    width: 400px;
+    height: 220px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px grey;
+    margin-left: 40%;
+    margin-top: 17%;
+    background: url(./imagens/fundo.jpg);
+}
+
+H3 {
+    position: absolute;
+    left: 54%;
+    font-size: 30px;
+    top: 33%;
+    color: #fdf59c;
+}
+
+h6 {
+    position: absolute;
+    font-size: 14px;
+    left: 58.5%;
+    margin-top: 10%;
+    color: #fdf59c;
+}
+
+H4 {
+    position: absolute;
+    margin-top: 9.99%;
+    margin-left: 30px;
+    color: #fdf59c;
+    letter-spacing: 5px;
+}
+
+.tracejado {
+    position: absolute;
+    width: 10px;
+    height: 70px;
+    background: yellow;
+    border-radius: 200px 10px;
+    left: 40.2%;
+    top: 48%;
+}
+
+.iconebb {
+    position: absolute;
+    width: 50px;
+    margin-left: 41%;
+    top: 36%;
+    border-radius: 40px;
+}
+
+.iconevisa {
+    position: absolute;
+    left: 54.5%;
+    width: 130px;
+    top: 50%;
+}
+
+.chip {
+    position: absolute;
+    width: 50px;
+    margin-left: 41%;
+    top: 45%;
+}
+
+.wifi {
+    position: absolute;
+    width: 50px;
+    left: 44.5%;
+    top: 44.5%;
+}
